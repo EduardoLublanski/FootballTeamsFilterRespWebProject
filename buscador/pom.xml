@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.lublanski</groupId>
-	<artifactId>buscador</artifactId>
+	<artifactId>FootBallTeamsSearchEngine</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>buscador</name>
 	<description>buscador de times por nação</description>
